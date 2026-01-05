@@ -1,0 +1,81 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Simple OpeniTools/1.0.0": {
+        "dependencies": {
+          "Krypton": "2.0.0",
+          "Krypton.Navigator": "100.25.11.328",
+          "Krypton.Toolkit": "100.25.11.328"
+        },
+        "runtime": {
+          "Simple OpeniTools.dll": {}
+        },
+        "resources": {
+          "en-US/Simple OpeniTools.resources.dll": {
+            "locale": "en-US"
+          }
+        }
+      },
+      "Krypton/2.0.0": {
+        "runtime": {
+          "lib/net40-Client/Krypton.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Krypton.Navigator/100.25.11.328": {
+        "dependencies": {
+          "Krypton.Toolkit": "100.25.11.328"
+        },
+        "runtime": {
+          "lib/net472/Krypton.Navigator.dll": {
+            "assemblyVersion": "100.25.11.328",
+            "fileVersion": "100.25.11.328"
+          }
+        }
+      },
+      "Krypton.Toolkit/100.25.11.328": {
+        "runtime": {
+          "lib/net472/Krypton.Toolkit.dll": {
+            "assemblyVersion": "100.25.11.328",
+            "fileVersion": "100.25.11.328"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simple OpeniTools/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Krypton/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sRGtV0Rs3eU7dxxjzvgh68kwuWgFSF5ZRMrw5fTYW02j3zRGqVjKbgBW68KdmvlwRQLXZQ1OofuvoW717rCHGQ==",
+      "path": "krypton/2.0.0",
+      "hashPath": "krypton.2.0.0.nupkg.sha512"
+    },
+    "Krypton.Navigator/100.25.11.328": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-m9KT0EWHqqEuI4jN8IeAxpMWlpr7XIOpr1+glxLp4pQgR2r5eYjydiHWx0yvZpxwpadG5PUKF4FTrGm5ZpmVvQ==",
+      "path": "krypton.navigator/100.25.11.328",
+      "hashPath": "krypton.navigator.100.25.11.328.nupkg.sha512"
+    },
+    "Krypton.Toolkit/100.25.11.328": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rIk95XzDwDY6EopwuQ2DmHwSn5HMTIRZqcRctCZLKh811vCJrtDbKLpDL8ah/3g1fV+f4COF2v/0k6RvMlclqg==",
+      "path": "krypton.toolkit/100.25.11.328",
+      "hashPath": "krypton.toolkit.100.25.11.328.nupkg.sha512"
+    }
+  }
+}

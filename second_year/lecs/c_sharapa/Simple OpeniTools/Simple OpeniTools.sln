@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple OpeniTools", "Simple OpeniTools\Simple OpeniTools.csproj", "{19B473DD-1C45-4B4F-B196-A6A7EF4E52CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19B473DD-1C45-4B4F-B196-A6A7EF4E52CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B473DD-1C45-4B4F-B196-A6A7EF4E52CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B473DD-1C45-4B4F-B196-A6A7EF4E52CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B473DD-1C45-4B4F-B196-A6A7EF4E52CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D967C329-052E-4D7F-A706-726632C5631A}
+	EndGlobalSection
+EndGlobal

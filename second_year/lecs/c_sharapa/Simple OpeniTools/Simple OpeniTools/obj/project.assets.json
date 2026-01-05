@@ -1,0 +1,318 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-windows7.0": {
+      "Krypton/2.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40-Client/Krypton.dll": {}
+        },
+        "runtime": {
+          "lib/net40-Client/Krypton.dll": {}
+        }
+      },
+      "Krypton.Navigator/100.25.11.328": {
+        "type": "package",
+        "dependencies": {
+          "Krypton.Toolkit": "100.25.11.328"
+        },
+        "compile": {
+          "lib/net472/Krypton.Navigator.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net472/Krypton.Navigator.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Krypton.Toolkit/100.25.11.328": {
+        "type": "package",
+        "compile": {
+          "lib/net472/Krypton.Toolkit.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net472/Krypton.Toolkit.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "ReaLTaiizor/3.8.1.4": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows7.0/ReaLTaiizor.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-windows7.0/ReaLTaiizor.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      },
+      "RustyOptions/0.10.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/RustyOptions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/RustyOptions.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Krypton/2.0.0": {
+      "sha512": "sRGtV0Rs3eU7dxxjzvgh68kwuWgFSF5ZRMrw5fTYW02j3zRGqVjKbgBW68KdmvlwRQLXZQ1OofuvoW717rCHGQ==",
+      "type": "package",
+      "path": "krypton/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "KryptonEffect.fx",
+        "krypton.2.0.0.nupkg.sha512",
+        "krypton.nuspec",
+        "lib/net40-Client/Krypton.dll"
+      ]
+    },
+    "Krypton.Navigator/100.25.11.328": {
+      "sha512": "m9KT0EWHqqEuI4jN8IeAxpMWlpr7XIOpr1+glxLp4pQgR2r5eYjydiHWx0yvZpxwpadG5PUKF4FTrGm5ZpmVvQ==",
+      "type": "package",
+      "path": "krypton.navigator/100.25.11.328",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Krypton Stable.png",
+        "License.md",
+        "README.md",
+        "krypton.navigator.100.25.11.328.nupkg.sha512",
+        "krypton.navigator.nuspec",
+        "lib/net10.0-windows7.0/Krypton.Navigator.dll",
+        "lib/net10.0-windows7.0/Krypton.Navigator.xml",
+        "lib/net472/Krypton.Navigator.dll",
+        "lib/net472/Krypton.Navigator.xml",
+        "lib/net48/Krypton.Navigator.dll",
+        "lib/net48/Krypton.Navigator.xml",
+        "lib/net481/Krypton.Navigator.dll",
+        "lib/net481/Krypton.Navigator.xml",
+        "lib/net8.0-windows7.0/Krypton.Navigator.dll",
+        "lib/net8.0-windows7.0/Krypton.Navigator.xml",
+        "lib/net9.0-windows7.0/Krypton.Navigator.dll",
+        "lib/net9.0-windows7.0/Krypton.Navigator.xml"
+      ]
+    },
+    "Krypton.Toolkit/100.25.11.328": {
+      "sha512": "rIk95XzDwDY6EopwuQ2DmHwSn5HMTIRZqcRctCZLKh811vCJrtDbKLpDL8ah/3g1fV+f4COF2v/0k6RvMlclqg==",
+      "type": "package",
+      "path": "krypton.toolkit/100.25.11.328",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Krypton Stable.png",
+        "License.md",
+        "README.md",
+        "krypton.toolkit.100.25.11.328.nupkg.sha512",
+        "krypton.toolkit.nuspec",
+        "lib/net10.0-windows7.0/Krypton.Toolkit.dll",
+        "lib/net10.0-windows7.0/Krypton.Toolkit.xml",
+        "lib/net472/Krypton.Toolkit.dll",
+        "lib/net472/Krypton.Toolkit.xml",
+        "lib/net48/Krypton.Toolkit.dll",
+        "lib/net48/Krypton.Toolkit.xml",
+        "lib/net481/Krypton.Toolkit.dll",
+        "lib/net481/Krypton.Toolkit.xml",
+        "lib/net8.0-windows7.0/Krypton.Toolkit.dll",
+        "lib/net8.0-windows7.0/Krypton.Toolkit.xml",
+        "lib/net9.0-windows7.0/Krypton.Toolkit.dll",
+        "lib/net9.0-windows7.0/Krypton.Toolkit.xml"
+      ]
+    },
+    "ReaLTaiizor/3.8.1.4": {
+      "sha512": "OyWDI78hbeNLPFQE2YA616RYXMyCO0uOjwsJi6pPiDOyCFM/HKX3Lpfy1UBb6z9KApGnNs+WVsVZn8AZm5xyQQ==",
+      "type": "package",
+      "path": "realtaiizor/3.8.1.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.MD",
+        "Taiizor.png",
+        "lib/net10.0-windows7.0/ReaLTaiizor.dll",
+        "lib/net10.0-windows7.0/ReaLTaiizor.xml",
+        "lib/net48/ReaLTaiizor.dll",
+        "lib/net48/ReaLTaiizor.xml",
+        "lib/net481/ReaLTaiizor.dll",
+        "lib/net481/ReaLTaiizor.xml",
+        "lib/net6.0-windows7.0/ReaLTaiizor.dll",
+        "lib/net6.0-windows7.0/ReaLTaiizor.xml",
+        "lib/net7.0-windows7.0/ReaLTaiizor.dll",
+        "lib/net7.0-windows7.0/ReaLTaiizor.xml",
+        "lib/net8.0-windows7.0/ReaLTaiizor.dll",
+        "lib/net8.0-windows7.0/ReaLTaiizor.xml",
+        "lib/net9.0-windows7.0/ReaLTaiizor.dll",
+        "lib/net9.0-windows7.0/ReaLTaiizor.xml",
+        "lib/netcoreapp3.1/ReaLTaiizor.dll",
+        "lib/netcoreapp3.1/ReaLTaiizor.xml",
+        "realtaiizor.3.8.1.4.nupkg.sha512",
+        "realtaiizor.nuspec"
+      ]
+    },
+    "RustyOptions/0.10.1": {
+      "sha512": "OuqyaAZ+vd37aIiFsVVUaOKk9JpIPnrunERZYufbzz3VSInNIFFsp8nc2NL3yOmf0nkI41GWUzlzcwlGpBqWNQ==",
+      "type": "package",
+      "path": "rustyoptions/0.10.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "lib/net6.0/RustyOptions.dll",
+        "lib/net6.0/RustyOptions.xml",
+        "lib/net7.0/RustyOptions.dll",
+        "lib/net7.0/RustyOptions.xml",
+        "lib/net8.0/RustyOptions.dll",
+        "lib/net8.0/RustyOptions.xml",
+        "rustyoptions.0.10.1.nupkg.sha512",
+        "rustyoptions.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0-windows7.0": [
+      "Krypton >= 2.0.0",
+      "Krypton.Navigator >= 100.25.11.328",
+      "Krypton.Toolkit >= 100.25.11.328",
+      "ReaLTaiizor >= 3.8.1.4",
+      "RustyOptions >= 0.10.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\abdullah\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\abdullah\\Documents\\c_sharapa_projects\\Simple OpeniTools\\Simple OpeniTools\\Simple OpeniTools.csproj",
+      "projectName": "Simple OpeniTools",
+      "projectPath": "C:\\Users\\abdullah\\Documents\\c_sharapa_projects\\Simple OpeniTools\\Simple OpeniTools\\Simple OpeniTools.csproj",
+      "packagesPath": "C:\\Users\\abdullah\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\abdullah\\Documents\\c_sharapa_projects\\Simple OpeniTools\\Simple OpeniTools\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\abdullah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
+        "dependencies": {
+          "Krypton": {
+            "target": "Package",
+            "version": "[2.0.0, )"
+          },
+          "Krypton.Navigator": {
+            "target": "Package",
+            "version": "[100.25.11.328, )"
+          },
+          "Krypton.Toolkit": {
+            "target": "Package",
+            "version": "[100.25.11.328, )"
+          },
+          "ReaLTaiizor": {
+            "target": "Package",
+            "version": "[3.8.1.4, )"
+          },
+          "RustyOptions": {
+            "target": "Package",
+            "version": "[0.10.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Krypton 2.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Krypton",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Krypton.Navigator 100.25.11.328' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Krypton.Navigator",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Krypton.Toolkit 100.25.11.328' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Krypton.Toolkit",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}

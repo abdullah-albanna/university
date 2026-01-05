@@ -162,7 +162,7 @@ impl<T: Clone + Display + Serialize + for<'a> Deserialize<'a>> LinkedList<T> {
             .open(file_name)
             .unwrap();
 
-        serde_json::to_writer_pretty(file, &self.to_vec());
+        serde_json::to_writer_pretty(file, &self.to_vec()).unwrap();
     }
 
     pub fn from_file(file_name: &str) -> Self {
@@ -207,16 +207,17 @@ impl<T: Display> Drop for LinkedList<T> {
 fn main() {
     let mut linked_list = LinkedList::new();
 
-    linked_list.append(Student::new(2, "Qasm".to_string(), Major::IT));
-    linked_list.append(Student::new(3, "Mohmmed".to_string(), Major::Cyber));
-    linked_list.prepend(Student::new(1, "Abdullah".to_string(), Major::Cyber));
-    linked_list.insert_at(2, Student::new(4, "Mohmmed".to_string(), Major::Cyber));
+    linked_list.append("abdullah".to_string());
+    // linked_list.append(Student::new(2, "Qasm".to_string(), Major::IT));
+    // linked_list.append(Student::new(3, "Mohmmed".to_string(), Major::Cyber));
+    // linked_list.prepend(Student::new(1, "Abdullah".to_string(), Major::Cyber));
+    // linked_list.insert_at(2, Student::new(4, "Mohmmed".to_string(), Major::Cyber));
 
     linked_list.to_file("students.json");
 
     println!("{linked_list}");
 
-    let linked_list_from_file = LinkedList::<Student>::from_file("students.json");
+    let linked_list_from_file = LinkedList::<String>::from_file("students.json");
 
     println!("from file: {linked_list_from_file}");
 }

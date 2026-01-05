@@ -1,22 +1,3 @@
 [
-  {
-    "id": 1,
-    "name": "Abdullah",
-    "major": "Cyber"
-  },
-  {
-    "id": 2,
-    "name": "Qasm",
-    "major": "IT"
-  },
-  {
-    "id": 4,
-    "name": "Mohmmed",
-    "major": "Cyber"
-  },
-  {
-    "id": 3,
-    "name": "Mohmmed",
-    "major": "Cyber"
-  }
+  "abdullah"
 ]

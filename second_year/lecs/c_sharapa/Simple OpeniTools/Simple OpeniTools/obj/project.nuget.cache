@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "+JHSH0oNY9PgcsIa9m6pSuxje/5n+r3ukf/PE69CnLxZWPPTo+d1lhXLUo/0Ojq+/1qwXXtRD/3CL536sLTdTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abdullah\\Documents\\c_sharapa_projects\\Simple OpeniTools\\Simple OpeniTools\\Simple OpeniTools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdullah\\.nuget\\packages\\krypton\\2.0.0\\krypton.2.0.0.nupkg.sha512",
+    "C:\\Users\\abdullah\\.nuget\\packages\\krypton.navigator\\100.25.11.328\\krypton.navigator.100.25.11.328.nupkg.sha512",
+    "C:\\Users\\abdullah\\.nuget\\packages\\krypton.toolkit\\100.25.11.328\\krypton.toolkit.100.25.11.328.nupkg.sha512",
+    "C:\\Users\\abdullah\\.nuget\\packages\\realtaiizor\\3.8.1.4\\realtaiizor.3.8.1.4.nupkg.sha512",
+    "C:\\Users\\abdullah\\.nuget\\packages\\rustyoptions\\0.10.1\\rustyoptions.0.10.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Krypton 2.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Krypton",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Krypton.Navigator 100.25.11.328' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Krypton.Navigator",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Krypton.Toolkit 100.25.11.328' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Krypton.Toolkit",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}

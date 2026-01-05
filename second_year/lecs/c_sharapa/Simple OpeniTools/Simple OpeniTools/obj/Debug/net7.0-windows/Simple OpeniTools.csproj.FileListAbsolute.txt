@@ -1,0 +1,26 @@
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\bin\Debug\net7.0-windows\Simple OpeniTools.exe
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\bin\Debug\net7.0-windows\Simple OpeniTools.deps.json
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\bin\Debug\net7.0-windows\Simple OpeniTools.runtimeconfig.json
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\bin\Debug\net7.0-windows\Simple OpeniTools.dll
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\bin\Debug\net7.0-windows\Simple OpeniTools.pdb
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\obj\Debug\net7.0-windows\Simple OpeniTools.csproj.AssemblyReference.cache
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\obj\Debug\net7.0-windows\Simple OpeniTools.csproj.GenerateResource.cache
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\obj\Debug\net7.0-windows\Simple OpeniTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\obj\Debug\net7.0-windows\Simple OpeniTools.AssemblyInfoInputs.cache
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\obj\Debug\net7.0-windows\Simple OpeniTools.AssemblyInfo.cs
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\obj\Debug\net7.0-windows\Simple OpeniTools.csproj.CoreCompileInputs.cache
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\obj\Debug\net7.0-windows\Simple OpeniTools.dll
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\obj\Debug\net7.0-windows\refint\Simple OpeniTools.dll
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\obj\Debug\net7.0-windows\Simple OpeniTools.pdb
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\obj\Debug\net7.0-windows\Simple OpeniTools.genruntimeconfig.cache
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\obj\Debug\net7.0-windows\ref\Simple OpeniTools.dll
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\bin\Debug\net7.0-windows\en-US\Simple OpeniTools.resources.dll
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\obj\Debug\net7.0-windows\Simple_OpeniTools.MainForm.resources
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\obj\Debug\net7.0-windows\Simple_OpeniTools.MainForm.en-US.resources
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\obj\Debug\net7.0-windows\en-US\Simple OpeniTools.resources.dll
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\obj\Debug\net7.0-windows\Simple OpeniTools.csproj.CopyComplete
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\bin\Debug\net7.0-windows\Krypton.dll
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\bin\Debug\net7.0-windows\Krypton.Navigator.dll
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\bin\Debug\net7.0-windows\Krypton.Toolkit.dll
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\bin\Debug\net7.0-windows\RustyOptions.dll
+C:\Users\abdullah\Documents\c_sharapa_projects\Simple OpeniTools\Simple OpeniTools\bin\Debug\net7.0-windows\ReaLTaiizor.dll

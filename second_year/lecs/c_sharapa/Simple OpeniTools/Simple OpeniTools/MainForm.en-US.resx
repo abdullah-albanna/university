@@ -1,0 +1,163 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="InfoPanel.AutoScroll" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="InfoPanel.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="InfoPanel.FlowDirection" type="System.Windows.Forms.FlowDirection, System.Windows.Forms">
+    <value>TopDown</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="InfoPanel.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>20, 20, 20, 20</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="InfoPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1004, 539</value>
+  </data>
+  <data name="deviceinfoPage.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="deviceinfoPage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1010, 545</value>
+  </data>
+  <data name="deviceinfoPage.Text" xml:space="preserve">
+    <value>Info</value>
+  </data>
+  <data name="progressbar.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 15pt</value>
+  </data>
+  <data name="progressbar.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>100, 100</value>
+  </data>
+  <data name="progressbar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>162, 162</value>
+  </data>
+  <data name="progressbar.Text" xml:space="preserve">
+    <value>circleProgressBar1</value>
+  </data>
+  <data name="progressbar.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="DownloadButton.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 5, 5, 5</value>
+  </data>
+  <data name="DownloadButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>160, 29</value>
+  </data>
+  <data name="DownloadButton.Text" xml:space="preserve">
+    <value>Download</value>
+  </data>
+  <data name="ToolsGroupBox.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="ToolsGroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>845, 3</value>
+  </data>
+  <data name="ToolsGroupBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>162, 539</value>
+  </data>
+  <data name="ToolsGroupBox.Text" xml:space="preserve">
+    <value>tools</value>
+  </data>
+  <data name="FileExplorerTree.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="FileExplorerTree.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>On</value>
+  </data>
+  <data name="FileExplorerTree.Size" type="System.Drawing.Size, System.Drawing">
+    <value>836, 539</value>
+  </data>
+  <data name="FileExplorerTree.Text" xml:space="preserve">
+    <value>crownTreeView1</value>
+  </data>
+  <data name="deviceFileExplrerPage.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="deviceFileExplrerPage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1010, 545</value>
+  </data>
+  <data name="deviceFileExplrerPage.Text" xml:space="preserve">
+    <value>File Explorer</value>
+  </data>
+  <data name="MainNavbar.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="MainNavbar.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 10pt</value>
+  </data>
+  <data name="MainNavbar.ItemSize" type="System.Drawing.Size, System.Drawing">
+    <value>120, 40</value>
+  </data>
+  <data name="MainNavbar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1018, 593</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1018, 593</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>themeForm1</value>
+  </data>
+</root>

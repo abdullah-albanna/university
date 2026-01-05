@@ -1,0 +1,2041 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="&gt;&gt;tabPage1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>MainForm</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="BatteryGroupBox.Panel.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Inherit</value>
+  </data>
+  <data name="&gt;&gt;kryptonButton1.Name" xml:space="preserve">
+    <value>kryptonButton1</value>
+  </data>
+  <data name="&gt;&gt;expandCollapseButton1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;thunderGroupBox4.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.ThunderGroupBox, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="treeViewAdv1.HelpTextControl.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Inherit</value>
+  </data>
+  <data name="StorageGroupBox.Panel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>Inherit</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="BatteryLevelLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 25</value>
+  </data>
+  <data name="&gt;&gt;BatteryLevelLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="kryptonGroupBox3.Values.Heading" xml:space="preserve">
+    <value>Battery</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="kryptonGroupBox3.Panel.AutoScroll" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;OSGroupBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;BatteryCycleCountsLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;crownGroupBox1.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.CrownGroupBox, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="thunderGroupBox4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>505, 262</value>
+  </data>
+  <data name="&gt;&gt;tabPage3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label3.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;kryptonGroupBox2.Name" xml:space="preserve">
+    <value>kryptonGroupBox2</value>
+  </data>
+  <data name="tabPage1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;treeViewAdv1.Parent" xml:space="preserve">
+    <value>HardwareGroupBox</value>
+  </data>
+  <data name="headerLabel1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="kryptonGroupBox2.Values.Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="DownloadButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>2, 73</value>
+  </data>
+  <data name="&gt;&gt;OSBuildNumberLabel.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="HardwareGroupBox.Panel.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="&gt;&gt;kryptonNavigator1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="progressBar1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;kryptonPage1.Name" xml:space="preserve">
+    <value>kryptonPage1</value>
+  </data>
+  <data name="&gt;&gt;fspanel.Parent" xml:space="preserve">
+    <value>deviceFileExplrerPage</value>
+  </data>
+  <data name="headerLabel17.Location" type="System.Drawing.Point, System.Drawing">
+    <value>623, 48</value>
+  </data>
+  <data name="StorageGroupBox.Values.Heading" xml:space="preserve">
+    <value>Storage</value>
+  </data>
+  <data name="&gt;&gt;crownGroupBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="StorageAvailableLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>20, 154</value>
+  </data>
+  <data name="BatteryGroupBox.Values.Heading" xml:space="preserve">
+    <value>Battery</value>
+  </data>
+  <data name="&gt;&gt;headerLabel14.Parent" xml:space="preserve">
+    <value>flowLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;kryptonGroupBox2.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonGroupBox, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;headerLabel2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="headerLabel16.Location" type="System.Drawing.Point, System.Drawing">
+    <value>468, 48</value>
+  </data>
+  <data name="&gt;&gt;circleProgressBar1.Parent" xml:space="preserve">
+    <value>ToolsGroupBox</value>
+  </data>
+  <data name="&gt;&gt;StorageTotalLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
+  </data>
+  <data name="&gt;&gt;kryptonGroupBox2.Parent" xml:space="preserve">
+    <value>kryptonTableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;HardwareRegionLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;InfoPanel.Parent" xml:space="preserve">
+    <value>deviceinfoPage</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="tabPage1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 44</value>
+  </data>
+  <data name="fspanel.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="kryptonGroupBox4.Panel.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Inherit</value>
+  </data>
+  <data name="&gt;&gt;kryptonGroupBox4.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="OSGroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;ToolsGroupBox.Parent" xml:space="preserve">
+    <value>deviceFileExplrerPage</value>
+  </data>
+  <data name="headerLabel7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 24</value>
+  </data>
+  <data name="&gt;&gt;headerLabel4.Parent" xml:space="preserve">
+    <value>flowLayoutPanel1</value>
+  </data>
+  <data name="treeViewAdv1.ToolTipControl.Font" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;thunderGroupBox5.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;progressBar1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ProgressBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BatteryCycleCountsLabel.Name" xml:space="preserve">
+    <value>BatteryCycleCountsLabel</value>
+  </data>
+  <data name="OSBuildNumberLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>25, 103</value>
+  </data>
+  <data name="&gt;&gt;treeViewAdv1.Type" xml:space="preserve">
+    <value>Syncfusion.Windows.Forms.Tools.TreeViewAdv, Syncfusion.Tools.Windows, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89</value>
+  </data>
+  <data name="&gt;&gt;flowLayoutPanel1.Name" xml:space="preserve">
+    <value>flowLayoutPanel1</value>
+  </data>
+  <data name="deviceinfoPage.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="headerLabel12.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="treeViewAdv1.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="StorageUsedLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 103</value>
+  </data>
+  <data name="&gt;&gt;HardwareGroupBox.Name" xml:space="preserve">
+    <value>HardwareGroupBox</value>
+  </data>
+  <data name="expandCollapsePanel1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="DownloadButton.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;BatteryCycleCountsLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="headerLabel8.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;BatteryGroupBox.Parent" xml:space="preserve">
+    <value>InfoTable</value>
+  </data>
+  <data name="&gt;&gt;fspanel.Name" xml:space="preserve">
+    <value>fspanel</value>
+  </data>
+  <data name="treeViewAdv1.ToolTipControl.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Tile</value>
+  </data>
+  <data name="deviceFileExplrerPage.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="thunderGroupBox5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 262</value>
+  </data>
+  <data name="kryptonTableLayoutPanel1.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="BatteryGroupBox" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="StorageGroupBox" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="OsGroupBox" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="HardwareGroupBox" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,50,Percent,50" /&gt;&lt;Rows Styles="Percent,50,Percent,50" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="kryptonGroupBox1.Panel.AccessibleDescription" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;treeViewAdv1.Name" xml:space="preserve">
+    <value>treeViewAdv1</value>
+  </data>
+  <data name="tableLayoutPanel1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="crownTreeView1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>76, 49</value>
+  </data>
+  <data name="&gt;&gt;headerLabel8.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="treeViewAdv1.HelpTextControl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>Inherit</value>
+  </data>
+  <data name="OsGroupBox.Panel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>Inherit</value>
+  </data>
+  <data name="&gt;&gt;headerLabel17.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.HeaderLabel, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;headerLabel1.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.HeaderLabel, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;flowLayoutPanel1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <assembly alias="Krypton.Navigator" name="Krypton.Navigator, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e" />
+  <data name="NavBar.Bar.BarMapImage" type="Krypton.Navigator.MapKryptonPageImage, Krypton.Navigator">
+    <value>Small</value>
+  </data>
+  <data name="&gt;&gt;flowLayoutPanel2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;headerLabel5.Name" xml:space="preserve">
+    <value>headerLabel5</value>
+  </data>
+  <data name="&gt;&gt;DownloadButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;ToolsGroupBox.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="kryptonGroupBox4.Panel.AutoScroll" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;crownButton1.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.CrownButton, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;headerLabel14.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="StorageUsedLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;thunderGroupBox2.Name" xml:space="preserve">
+    <value>thunderGroupBox2</value>
+  </data>
+  <data name="&gt;&gt;kryptonButton2.Name" xml:space="preserve">
+    <value>kryptonButton2</value>
+  </data>
+  <data name="&gt;&gt;FileExplorerTreeView.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonTreeView, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="kryptonGroupBox1.Panel.AutoScroll" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;headerLabel3.Parent" xml:space="preserve">
+    <value>flowLayoutPanel1</value>
+  </data>
+  <data name="FileExplorerTree.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;foreverTabPage1.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.ForeverTabPage, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;HardwareModelNumberLabel.Parent" xml:space="preserve">
+    <value>thunderGroupBox2</value>
+  </data>
+  <data name="&gt;&gt;deviceinfoPage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MainNavbar.Name" xml:space="preserve">
+    <value>MainNavbar</value>
+  </data>
+  <data name="&gt;&gt;StorageTotalLabel.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;headerLabel7.Name" xml:space="preserve">
+    <value>headerLabel7</value>
+  </data>
+  <data name="tableLayoutPanel1.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="thunderGroupBox5" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="thunderGroupBox6" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="thunderGroupBox4" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="thunderGroupBox3" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,50,Percent,50" /&gt;&lt;Rows Styles="Percent,50,Percent,50,Absolute,20" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>507, 345</value>
+  </data>
+  <data name="&gt;&gt;HardwareModelLabel.Parent" xml:space="preserve">
+    <value>thunderGroupBox2</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Simple OpeniTools</value>
+  </data>
+  <data name="kryptonGroupBox1.Values.Heading" xml:space="preserve">
+    <value>OS</value>
+  </data>
+  <data name="kryptonGroupBox4.Panel.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="headerLabel3.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="treeViewAdv1.ToolTipControl.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="FileExplrerTreeView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="&gt;&gt;tabPage2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;kryptonButton2.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonButton, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="treeViewAdv1.ToolTipControl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="&gt;&gt;StorageGroupBox.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.ThunderGroupBox, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="BatteryHealthLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="&gt;&gt;headerLabel4.Name" xml:space="preserve">
+    <value>headerLabel4</value>
+  </data>
+  <data name="&gt;&gt;kryptonThemeListBox1.Parent" xml:space="preserve">
+    <value>infoPage</value>
+  </data>
+  <data name="StorageGroupBox.Panel.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Inherit</value>
+  </data>
+  <data name="&gt;&gt;StorageAvailableLabel.Parent" xml:space="preserve">
+    <value>thunderGroupBox1</value>
+  </data>
+  <data name="kryptonThemeComboBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;NavBar.Name" xml:space="preserve">
+    <value>NavBar</value>
+  </data>
+  <data name="&gt;&gt;headerLabel12.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;tabPage1.Name" xml:space="preserve">
+    <value>tabPage1</value>
+  </data>
+  <data name="&gt;&gt;kryptonPage1.Type" xml:space="preserve">
+    <value>Krypton.Navigator.KryptonPage, Krypton.Navigator, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="kryptonButton2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="button1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="treeViewAdv1.ToolTipControl.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;progressbar.Parent" xml:space="preserve">
+    <value>ToolsGroupBox</value>
+  </data>
+  <data name="&gt;&gt;headerLabel16.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.HeaderLabel, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;headerLabel16.Parent" xml:space="preserve">
+    <value>flowLayoutPanel1</value>
+  </data>
+  <data name="treeViewAdv1.HelpTextControl.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Tile</value>
+  </data>
+  <data name="kryptonGroupBox3.Panel.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="&gt;&gt;kryptonDataGridView1.Parent" xml:space="preserve">
+    <value>infoPage</value>
+  </data>
+  <data name="headerLabel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 0</value>
+  </data>
+  <data name="BatteryCycleCountsLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;MainNavbar.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="HardwareRegionLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>BatteryGroupBox</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="flowLayoutPanel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 241</value>
+  </data>
+  <data name="&gt;&gt;headerLabel5.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.HeaderLabel, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;FileExplorerTree.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.CrownTreeView, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;fileExplorerPage.Name" xml:space="preserve">
+    <value>fileExplorerPage</value>
+  </data>
+  <data name="headerLabel15.Location" type="System.Drawing.Point, System.Drawing">
+    <value>313, 48</value>
+  </data>
+  <data name="&gt;&gt;headerLabel14.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.HeaderLabel, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="headerLabel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>147, 0</value>
+  </data>
+  <data name="StorageGroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 227</value>
+  </data>
+  <data name="&gt;&gt;headerLabel4.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.HeaderLabel, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="kryptonGroupBox3.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;HardwareRegionLabel.Name" xml:space="preserve">
+    <value>HardwareRegionLabel</value>
+  </data>
+  <data name="&gt;&gt;headerLabel17.Name" xml:space="preserve">
+    <value>headerLabel17</value>
+  </data>
+  <data name="&gt;&gt;kryptonGroupBox3.Name" xml:space="preserve">
+    <value>kryptonGroupBox3</value>
+  </data>
+  <data name="headerLabel5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>579, 0</value>
+  </data>
+  <data name="&gt;&gt;HardwareGroupBox.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;headerLabel1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="treeViewAdv1.HelpTextControl.AutoScroll" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;deviceFileExplrerPage.Name" xml:space="preserve">
+    <value>deviceFileExplrerPage</value>
+  </data>
+  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;NavBar.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="InfoPanel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;headerLabel2.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.HeaderLabel, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="headerLabel10.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;OSBuildNumberLabel.Name" xml:space="preserve">
+    <value>OSBuildNumberLabel</value>
+  </data>
+  <data name="HardwareGroupBox.Panel.AccessibleName" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;StorageUsedLabel.Parent" xml:space="preserve">
+    <value>thunderGroupBox1</value>
+  </data>
+  <data name="&gt;&gt;panelNav.Name" xml:space="preserve">
+    <value>panelNav</value>
+  </data>
+  <data name="crownButton1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;kryptonGroupBox3.Parent" xml:space="preserve">
+    <value>kryptonTableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;headerLabel13.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="kryptonNavigator1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>301, 130</value>
+  </data>
+  <data name="panelNav.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="thunderGroupBox3.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;kryptonGroupBox1.Name" xml:space="preserve">
+    <value>kryptonGroupBox1</value>
+  </data>
+  <data name="&gt;&gt;StorageGroupBox.Parent" xml:space="preserve">
+    <value>InfoTable</value>
+  </data>
+  <data name="&gt;&gt;treeViewAdv1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="treeViewAdv1.ToolTipControl.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Left</value>
+  </data>
+  <data name="kryptonGroupBox3.Panel.AccessibleName" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="OsGroupBox.Values.Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;flowLayoutPanel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.FlowLayoutPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tabPage3.Name" xml:space="preserve">
+    <value>tabPage3</value>
+  </data>
+  <data name="kryptonGroupBox3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>249, 3</value>
+  </data>
+  <data name="treeViewAdv1.HelpTextControl.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="kryptonNavigator1.Bar.BarMapImage" type="Krypton.Navigator.MapKryptonPageImage, Krypton.Navigator">
+    <value>Small</value>
+  </data>
+  <data name="&gt;&gt;fspanel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;headerLabel3.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="BatteryLevelLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;StorageGroupBox.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="kryptonButton2.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value />
+  </data>
+  <data name="progressbar.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;tabPage3.Parent" xml:space="preserve">
+    <value>foreverTabPage1</value>
+  </data>
+  <data name="InfoTable.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="&gt;&gt;deviceinfoPage.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;circleProgressBar1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;headerLabel10.Parent" xml:space="preserve">
+    <value>flowLayoutPanel1</value>
+  </data>
+  <data name="OsGroupBox.Panel.AccessibleDescription" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="NavBar.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="kryptonGroupBox3.Panel.AccessibleDescription" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;kryptonGroupBox3.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonGroupBox, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="kryptonGroupBox2.Panel.AccessibleDescription" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="treeViewAdv1.ToolTipControl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>Inherit</value>
+  </data>
+  <data name="&gt;&gt;headerLabel6.Parent" xml:space="preserve">
+    <value>flowLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;thunderGroupBox5.Name" xml:space="preserve">
+    <value>thunderGroupBox5</value>
+  </data>
+  <data name="&gt;&gt;kryptonGroupBox1.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonGroupBox, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="crownTreeView1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;headerLabel17.Parent" xml:space="preserve">
+    <value>flowLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;kryptonButton1.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonButton, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="kryptonGroupBox2.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value />
+  </data>
+  <data name="&gt;&gt;headerLabel6.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.HeaderLabel, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="kryptonButton1.Values.ExtraText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;crownButton1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="OsGroupBox.Panel.AutoScroll" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;panelNav.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tabPage1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;crownButton1.Parent" xml:space="preserve">
+    <value>crownGroupBox1</value>
+  </data>
+  <data name="&gt;&gt;thunderGroupBox2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="StorageGroupBox.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value />
+  </data>
+  <data name="&gt;&gt;headerLabel16.Name" xml:space="preserve">
+    <value>headerLabel16</value>
+  </data>
+  <data name="&gt;&gt;thunderGroupBox6.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="HardwareGroupBox.Panel.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Inherit</value>
+  </data>
+  <data name="headerLabel17.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="headerLabel11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>590, 24</value>
+  </data>
+  <data name="label.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;deviceFileExplrerPage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;headerLabel13.Name" xml:space="preserve">
+    <value>headerLabel13</value>
+  </data>
+  <data name="&gt;&gt;thunderGroupBox2.Parent" xml:space="preserve">
+    <value>flowLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;thunderGroupBox4.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;expandCollapsePanel1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="treeViewAdv1.ToolTipControl.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="progressBar1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 108</value>
+  </data>
+  <data name="&gt;&gt;backgroundWorker1.Type" xml:space="preserve">
+    <value>System.ComponentModel.BackgroundWorker, System.ComponentModel.EventBasedAsync, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 147</value>
+  </data>
+  <data name="&gt;&gt;headerLabel5.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="kryptonGroupBox3.Values.Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="kryptonGroupBox4.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value />
+  </data>
+  <data name="&gt;&gt;kryptonDataGridView1.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonDataGridView, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="treeViewAdv1.HelpTextControl.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowOnly</value>
+  </data>
+  <data name="&gt;&gt;StorageUsedLabel.Name" xml:space="preserve">
+    <value>StorageUsedLabel</value>
+  </data>
+  <data name="&gt;&gt;OsGroupBox.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;headerLabel7.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.HeaderLabel, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tabPage2.Name" xml:space="preserve">
+    <value>tabPage2</value>
+  </data>
+  <data name="treeViewAdv1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>-63, -14</value>
+  </data>
+  <data name="kryptonGroupBox3.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value />
+  </data>
+  <data name="&gt;&gt;headerLabel13.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.HeaderLabel, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="HardwareGroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;kryptonThemeListBox1.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonThemeListBox, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;kryptonGroupBox3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="kryptonGroupBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="BatteryGroupBox.Panel.AccessibleName" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="BatteryGroupBox.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value />
+  </data>
+  <data name="kryptonDataGridView1.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;StorageUsedLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;kryptonGroupBox4.Parent" xml:space="preserve">
+    <value>kryptonTableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;backgroundWorker1.Name" xml:space="preserve">
+    <value>backgroundWorker1</value>
+  </data>
+  <data name="flowLayoutPanel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="&gt;&gt;headerLabel12.Name" xml:space="preserve">
+    <value>headerLabel12</value>
+  </data>
+  <data name="&gt;&gt;headerLabel14.Name" xml:space="preserve">
+    <value>headerLabel14</value>
+  </data>
+  <data name="headerLabel14.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="OSVersionLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="OSGroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>387, 227</value>
+  </data>
+  <data name="kryptonTableLayoutPanel1.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="headerLabel7.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;InfoTable.Name" xml:space="preserve">
+    <value>InfoTable</value>
+  </data>
+  <data name="&gt;&gt;BatteryHealthLabel.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;headerLabel10.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;FileExplorerTreeView.Name" xml:space="preserve">
+    <value>FileExplorerTreeView</value>
+  </data>
+  <data name="kryptonGroupBox4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>249, 218</value>
+  </data>
+  <data name="&gt;&gt;InfoPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.FlowLayoutPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="crownGroupBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>908, 3</value>
+  </data>
+  <data name="&gt;&gt;kryptonThemeListBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;headerLabel16.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;NavBar.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="kryptonGroupBox1.Panel.AccessibleName" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Parent" xml:space="preserve">
+    <value>deviceinfoPage</value>
+  </data>
+  <data name="thunderGroupBox6.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="headerLabel15.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;thunderGroupBox4.Name" xml:space="preserve">
+    <value>thunderGroupBox4</value>
+  </data>
+  <data name="fspanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="&gt;&gt;flowLayoutPanel1.Parent" xml:space="preserve">
+    <value>deviceinfoPage</value>
+  </data>
+  <data name="&gt;&gt;OsGroupBox.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonGroupBox, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="OsGroupBox.Panel.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="StorageGroupBox.Panel.AccessibleDescription" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;label.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonLabel, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="HardwareModelLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>25, 37</value>
+  </data>
+  <data name="&gt;&gt;StorageGroupBox.Name" xml:space="preserve">
+    <value>StorageGroupBox</value>
+  </data>
+  <data name="&gt;&gt;HardwareRegionLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;headerLabel13.Parent" xml:space="preserve">
+    <value>flowLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;StorageAvailableLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;deviceFileExplrerPage.Parent" xml:space="preserve">
+    <value>MainNavbar</value>
+  </data>
+  <data name="&gt;&gt;thunderGroupBox1.Name" xml:space="preserve">
+    <value>thunderGroupBox1</value>
+  </data>
+  <data name="&gt;&gt;kryptonThemeListBox1.Name" xml:space="preserve">
+    <value>kryptonThemeListBox1</value>
+  </data>
+  <data name="&gt;&gt;kryptonDataGridView1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="BatteryCycleCountsLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 25</value>
+  </data>
+  <data name="ToolsGroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;kryptonThemeComboBox1.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonThemeComboBox, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;panelNav.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="kryptonButton1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>192, 258</value>
+  </data>
+  <data name="HardwareGroupBox.Panel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>Inherit</value>
+  </data>
+  <data name="kryptonGroupBox2.Panel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>Inherit</value>
+  </data>
+  <data name="&gt;&gt;InfoPanel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;kryptonGroupBox1.Parent" xml:space="preserve">
+    <value>fileExplorerPage</value>
+  </data>
+  <data name="&gt;&gt;headerLabel3.Name" xml:space="preserve">
+    <value>headerLabel3</value>
+  </data>
+  <data name="tabPage3.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;ToolsGroupBox.Name" xml:space="preserve">
+    <value>ToolsGroupBox</value>
+  </data>
+  <data name="InfoTable.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls /&gt;&lt;Columns Styles="Percent,50,Percent,50" /&gt;&lt;Rows Styles="Percent,50,Percent,50,Absolute,20" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <data name="&gt;&gt;headerLabel10.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.HeaderLabel, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;fspanel.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Docking.Crown.CrownDockPanel, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;headerLabel11.Parent" xml:space="preserve">
+    <value>flowLayoutPanel1</value>
+  </data>
+  <data name="kryptonGroupBox3.Panel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>Inherit</value>
+  </data>
+  <data name="&gt;&gt;kryptonNavigator1.Type" xml:space="preserve">
+    <value>Krypton.Navigator.KryptonNavigator, Krypton.Navigator, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="kryptonGroupBox2.Panel.AccessibleName" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;BatteryGroupBox.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.ThunderGroupBox, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="kryptonThemeListBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;headerLabel10.Name" xml:space="preserve">
+    <value>headerLabel10</value>
+  </data>
+  <data name="headerLabel13.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 48</value>
+  </data>
+  <data name="BatteryCycleCountsLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="&gt;&gt;BatteryGroupBox.Name" xml:space="preserve">
+    <value>BatteryGroupBox</value>
+  </data>
+  <data name="ToolsGroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>908, 3</value>
+  </data>
+  <data name="OSBuildNumberLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;thunderGroupBox2.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.ThunderGroupBox, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="crownGroupBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;advancedFlowLayoutPanel1.Type" xml:space="preserve">
+    <value>MakarovDev.ExpandCollapsePanel.AdvancedFlowLayoutPanel, MakarovDev.ExpandCollapsePanel, Culture=neutral, PublicKeyToken=6cb45db4006534c2</value>
+  </data>
+  <data name="headerLabel12.Location" type="System.Drawing.Point, System.Drawing">
+    <value>745, 24</value>
+  </data>
+  <data name="&gt;&gt;progressbar.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="treeViewAdv1.ToolTipControl.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowOnly</value>
+  </data>
+  <data name="headerLabel16.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;headerLabel9.Name" xml:space="preserve">
+    <value>headerLabel9</value>
+  </data>
+  <data name="treeViewAdv1.HelpTextControl.Font" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="FileExplorerTreeView.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;FileExplorerTreeView.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;headerLabel9.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.HeaderLabel, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;FileExplorerTree.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;OsGroupBox.Name" xml:space="preserve">
+    <value>OsGroupBox</value>
+  </data>
+  <data name="&gt;&gt;thunderGroupBox6.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;kryptonTableLayoutPanel1.Parent" xml:space="preserve">
+    <value>infoPage</value>
+  </data>
+  <data name="kryptonGroupBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="kryptonGroupBox1.Values.Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;infoPage.Type" xml:space="preserve">
+    <value>Krypton.Navigator.KryptonPage, Krypton.Navigator, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="kryptonGroupBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="advancedFlowLayoutPanel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 12</value>
+  </data>
+  <data name="kryptonGroupBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 218</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Name" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;crownGroupBox1.Parent" xml:space="preserve">
+    <value>deviceFileExplrerPage</value>
+  </data>
+  <data name="&gt;&gt;HardwareModelNumberLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;deviceinfoPage.Name" xml:space="preserve">
+    <value>deviceinfoPage</value>
+  </data>
+  <data name="MainNavbar.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="OsGroupBox.Values.Heading" xml:space="preserve">
+    <value>OS</value>
+  </data>
+  <data name="&gt;&gt;headerLabel17.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="&gt;&gt;kryptonGroupBox4.Name" xml:space="preserve">
+    <value>kryptonGroupBox4</value>
+  </data>
+  <data name="kryptonGroupBox4.Values.Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="kryptonButton1.Values.Text" xml:space="preserve">
+    <value>kryptonButton1</value>
+  </data>
+  <data name="&gt;&gt;foreverTabPage1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="kryptonButton1.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value />
+  </data>
+  <data name="&gt;&gt;crownGroupBox1.Name" xml:space="preserve">
+    <value>crownGroupBox1</value>
+  </data>
+  <data name="&gt;&gt;DownloadButton.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.CrownButton, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="spaceBorderLabel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>778, 51</value>
+  </data>
+  <data name="treeViewAdv1.ToolTipControl.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Inherit</value>
+  </data>
+  <data name="&gt;&gt;headerLabel1.Name" xml:space="preserve">
+    <value>headerLabel1</value>
+  </data>
+  <data name="&gt;&gt;crownTreeView1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="thunderGroupBox6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 521</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;OSBuildNumberLabel.Parent" xml:space="preserve">
+    <value>StorageGroupBox</value>
+  </data>
+  <data name="BatteryGroupBox.Panel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>Inherit</value>
+  </data>
+  <data name="OSVersionLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>25, 52</value>
+  </data>
+  <data name="StorageTotalLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>19, 52</value>
+  </data>
+  <data name="kryptonButton1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="BatteryGroupBox.Panel.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="spaceBorderLabel1.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="&gt;&gt;headerLabel15.Name" xml:space="preserve">
+    <value>headerLabel15</value>
+  </data>
+  <data name="&gt;&gt;BatteryHealthLabel.Parent" xml:space="preserve">
+    <value>BatteryGroupBox</value>
+  </data>
+  <data name="&gt;&gt;StorageUsedLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="kryptonGroupBox1.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value />
+  </data>
+  <data name="deviceFileExplrerPage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 44</value>
+  </data>
+  <data name="&gt;&gt;OSGroupBox.Parent" xml:space="preserve">
+    <value>InfoTable</value>
+  </data>
+  <data name="&gt;&gt;FileExplorerTree.Parent" xml:space="preserve">
+    <value>deviceFileExplrerPage</value>
+  </data>
+  <data name="&gt;&gt;flowLayoutPanel2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.FlowLayoutPanel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;BatteryGroupBox.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;InfoTable.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="kryptonGroupBox4.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="panelNav.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="kryptonButton2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>564, 128</value>
+  </data>
+  <data name="HardwareGroupBox.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value />
+  </data>
+  <data name="&gt;&gt;headerLabel3.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.HeaderLabel, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;circleProgressBar1.Name" xml:space="preserve">
+    <value>circleProgressBar1</value>
+  </data>
+  <data name="StorageGroupBox.Panel.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="&gt;&gt;thunderGroupBox5.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="crownButton1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>2, 73</value>
+  </data>
+  <data name="treeViewAdv1.ToolTipControl.AutoScroll" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="label.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value />
+  </data>
+  <data name="deviceinfoPage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 44</value>
+  </data>
+  <data name="&gt;&gt;kryptonThemeComboBox1.Parent" xml:space="preserve">
+    <value>infoPage</value>
+  </data>
+  <data name="OsGroupBox.Panel.AccessibleName" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;thunderGroupBox5.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.ThunderGroupBox, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;InfoPanel.Name" xml:space="preserve">
+    <value>InfoPanel</value>
+  </data>
+  <data name="&gt;&gt;progressBar1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="kryptonGroupBox2.Panel.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Inherit</value>
+  </data>
+  <data name="&gt;&gt;thunderGroupBox6.Name" xml:space="preserve">
+    <value>thunderGroupBox6</value>
+  </data>
+  <data name="&gt;&gt;thunderGroupBox3.Parent" xml:space="preserve">
+    <value>flowLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;thunderGroupBox1.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.ThunderGroupBox, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;HardwareModelNumberLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="kryptonGroupBox4.Values.Heading" xml:space="preserve">
+    <value>Storage</value>
+  </data>
+  <data name="&gt;&gt;kryptonButton1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 91</value>
+  </data>
+  <data name="tabPage3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 44</value>
+  </data>
+  <data name="&gt;&gt;headerLabel11.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.HeaderLabel, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;crownTreeView1.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.CrownTreeView, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="treeViewAdv1.HelpTextControl.AccessibleName" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="InfoTable.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="headerLabel3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>291, 0</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>800, 450</value>
+  </data>
+  <data name="&gt;&gt;OSGroupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="HardwareGroupBox.Panel.AccessibleDescription" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="StorageTotalLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;headerLabel15.Parent" xml:space="preserve">
+    <value>flowLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;crownTreeView1.Name" xml:space="preserve">
+    <value>crownTreeView1</value>
+  </data>
+  <data name="&gt;&gt;BatteryCycleCountsLabel.Parent" xml:space="preserve">
+    <value>BatteryGroupBox</value>
+  </data>
+  <data name="flowLayoutPanel1.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="BatteryGroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;spaceBorderLabel1.Name" xml:space="preserve">
+    <value>spaceBorderLabel1</value>
+  </data>
+  <data name="treeViewAdv1.ToolTipControl.BackgroundImage" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="FileExplrerTreeView.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="treeViewAdv1.HelpTextControl.Size" type="System.Drawing.Size, System.Drawing">
+    <value>392, 112</value>
+  </data>
+  <data name="expandCollapseButton1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>623, 151</value>
+  </data>
+  <data name="headerLabel8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>147, 24</value>
+  </data>
+  <data name="HardwareGroupBox.Values.Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;spaceBorderLabel1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;HardwareModelLabel.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="HardwareModelNumberLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>25, 90</value>
+  </data>
+  <data name="&gt;&gt;headerLabel1.Parent" xml:space="preserve">
+    <value>flowLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;headerLabel11.Name" xml:space="preserve">
+    <value>headerLabel11</value>
+  </data>
+  <data name="&gt;&gt;kryptonDataGridView1.Name" xml:space="preserve">
+    <value>kryptonDataGridView1</value>
+  </data>
+  <data name="tableLayoutPanel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="&gt;&gt;InfoTable.Parent" xml:space="preserve">
+    <value>infoPage</value>
+  </data>
+  <data name="kryptonGroupBox3.Panel.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Inherit</value>
+  </data>
+  <data name="&gt;&gt;tabPage2.Parent" xml:space="preserve">
+    <value>foreverTabPage1</value>
+  </data>
+  <data name="&gt;&gt;advancedFlowLayoutPanel1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="BatteryLevelLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="&gt;&gt;kryptonTableLayoutPanel1.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonTableLayoutPanel, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;StorageTotalLabel.Name" xml:space="preserve">
+    <value>StorageTotalLabel</value>
+  </data>
+  <data name="&gt;&gt;crownTreeView1.Parent" xml:space="preserve">
+    <value>BatteryGroupBox</value>
+  </data>
+  <data name="headerLabel11.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="treeViewAdv1.ToolTipControl.Visible" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="headerLabel6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>723, 0</value>
+  </data>
+  <data name="&gt;&gt;FileExplorerTree.Name" xml:space="preserve">
+    <value>FileExplorerTree</value>
+  </data>
+  <data name="BatteryHealthLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 25</value>
+  </data>
+  <data name="foreverTabPage1.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="kryptonTableLayoutPanel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="&gt;&gt;OSVersionLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="&gt;&gt;HardwareModelNumberLabel.Name" xml:space="preserve">
+    <value>HardwareModelNumberLabel</value>
+  </data>
+  <data name="HardwareGroupBox.Panel.AutoScroll" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="thunderGroupBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="StorageAvailableLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="OsGroupBox.Values.ImageTransparentColor" type="System.Drawing.Color, System.Drawing">
+    <value />
+  </data>
+  <data name="kryptonGroupBox2.Panel.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="treeViewAdv1.HelpTextControl.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;headerLabel12.Parent" xml:space="preserve">
+    <value>flowLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;expandCollapseButton1.Type" xml:space="preserve">
+    <value>MakarovDev.ExpandCollapsePanel.ExpandCollapseButton, MakarovDev.ExpandCollapsePanel, Culture=neutral, PublicKeyToken=6cb45db4006534c2</value>
+  </data>
+  <data name="&gt;&gt;tabPage3.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="headerLabel9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>291, 24</value>
+  </data>
+  <data name="&gt;&gt;headerLabel6.Name" xml:space="preserve">
+    <value>headerLabel6</value>
+  </data>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;headerLabel9.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="HardwareRegionLabel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>25, 143</value>
+  </data>
+  <data name="kryptonGroupBox4.Panel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>Inherit</value>
+  </data>
+  <data name="&gt;&gt;deviceFileExplrerPage.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;headerLabel2.Parent" xml:space="preserve">
+    <value>flowLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;expandCollapsePanel1.Type" xml:space="preserve">
+    <value>MakarovDev.ExpandCollapsePanel.ExpandCollapsePanel, MakarovDev.ExpandCollapsePanel, Culture=neutral, PublicKeyToken=6cb45db4006534c2</value>
+  </data>
+  <data name="&gt;&gt;advancedFlowLayoutPanel1.Name" xml:space="preserve">
+    <value>advancedFlowLayoutPanel1</value>
+  </data>
+  <data name="MainNavbar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="headerLabel13.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;kryptonButton2.Parent" xml:space="preserve">
+    <value>infoPage</value>
+  </data>
+  <data name="&gt;&gt;OSVersionLabel.Parent" xml:space="preserve">
+    <value>StorageGroupBox</value>
+  </data>
+  <data name="&gt;&gt;OSBuildNumberLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;headerLabel7.Parent" xml:space="preserve">
+    <value>flowLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;deviceinfoPage.Parent" xml:space="preserve">
+    <value>MainNavbar</value>
+  </data>
+  <data name="treeViewAdv1.ToolTipControl.Size" type="System.Drawing.Size, System.Drawing">
+    <value>392, 112</value>
+  </data>
+  <data name="FileExplorerTreeView.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="kryptonThemeComboBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>554, 214</value>
+  </data>
+  <data name="tabPage2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="thunderGroupBox3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>505, 3</value>
+  </data>
+  <data name="&gt;&gt;kryptonThemeComboBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="treeViewAdv1.HelpTextControl.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Left</value>
+  </data>
+  <data name="&gt;&gt;progressbar.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.CircleProgressBar, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;expandCollapseButton1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;HardwareModelLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="HardwareModelNumberLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="OsGroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>387, 227</value>
+  </data>
+  <data name="expandCollapsePanel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="&gt;&gt;kryptonThemeComboBox1.Name" xml:space="preserve">
+    <value>kryptonThemeComboBox1</value>
+  </data>
+  <data name="&gt;&gt;flowLayoutPanel2.Parent" xml:space="preserve">
+    <value>deviceinfoPage</value>
+  </data>
+  <data name="&gt;&gt;expandCollapsePanel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="BatteryGroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="tabPage2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>4, 44</value>
+  </data>
+  <data name="HardwareGroupBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>387, 3</value>
+  </data>
+  <data name="&gt;&gt;headerLabel8.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.HeaderLabel, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="foreverTabPage1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>39, 33</value>
+  </data>
+  <data name="OsGroupBox.Panel.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Inherit</value>
+  </data>
+  <data name="headerLabel5.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>BatteryGroupBox</value>
+  </data>
+  <data name="&gt;&gt;headerLabel7.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="HardwareModelLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="&gt;&gt;kryptonButton2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="progressbar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 209</value>
+  </data>
+  <data name="&gt;&gt;StorageAvailableLabel.Name" xml:space="preserve">
+    <value>StorageAvailableLabel</value>
+  </data>
+  <data name="headerLabel4.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;tabPage1.Parent" xml:space="preserve">
+    <value>MainNavbar</value>
+  </data>
+  <data name="thunderGroupBox4.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;BatteryHealthLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="BatteryGroupBox.Panel.AutoScroll" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;HardwareModelLabel.Name" xml:space="preserve">
+    <value>HardwareModelLabel</value>
+  </data>
+  <data name="headerLabel4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>435, 0</value>
+  </data>
+  <data name="NavBar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="&gt;&gt;headerLabel12.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.HeaderLabel, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="BatteryGroupBox.Values.Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;HardwareGroupBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="kryptonGroupBox4.Panel.AccessibleDescription" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="StorageGroupBox.Panel.AutoScroll" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;headerLabel8.Parent" xml:space="preserve">
+    <value>flowLayoutPanel1</value>
+  </data>
+  <data name="kryptonGroupBox1.Panel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>Inherit</value>
+  </data>
+  <data name="&gt;&gt;thunderGroupBox3.Name" xml:space="preserve">
+    <value>thunderGroupBox3</value>
+  </data>
+  <data name="treeViewAdv1.HelpTextControl.BackgroundImage" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;panelNav.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="StorageGroupBox.Panel.AccessibleName" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="kryptonGroupBox2.Values.Heading" xml:space="preserve">
+    <value>Hardware</value>
+  </data>
+  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>131, 463</value>
+  </data>
+  <data name="&gt;&gt;HardwareGroupBox.Parent" xml:space="preserve">
+    <value>InfoTable</value>
+  </data>
+  <data name="&gt;&gt;crownButton1.Name" xml:space="preserve">
+    <value>crownButton1</value>
+  </data>
+  <data name="&gt;&gt;progressBar1.Parent" xml:space="preserve">
+    <value>ToolsGroupBox</value>
+  </data>
+  <data name="treeViewAdv1.HelpTextControl.AccessibleDescription" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;kryptonTableLayoutPanel1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="advancedFlowLayoutPanel1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;StorageAvailableLabel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;BatteryLevelLabel.Name" xml:space="preserve">
+    <value>BatteryLevelLabel</value>
+  </data>
+  <data name="&gt;&gt;thunderGroupBox6.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.ThunderGroupBox, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;BatteryLevelLabel.Parent" xml:space="preserve">
+    <value>BatteryGroupBox</value>
+  </data>
+  <data name="&gt;&gt;flowLayoutPanel2.Name" xml:space="preserve">
+    <value>flowLayoutPanel2</value>
+  </data>
+  <data name="treeViewAdv1.HelpTextControl.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="treeViewAdv1.HelpTextControl.Visible" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;BatteryLevelLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;HardwareRegionLabel.Parent" xml:space="preserve">
+    <value>thunderGroupBox2</value>
+  </data>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="thunderGroupBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="label.Values.ExtraText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;headerLabel15.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;MainNavbar.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.ForeverTabPage, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="thunderGroupBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 227</value>
+  </data>
+  <data name="treeViewAdv1.HelpTextControl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="kryptonThemeListBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>483, 248</value>
+  </data>
+  <data name="headerLabel9.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 20</value>
+  </data>
+  <data name="kryptonGroupBox1.Panel.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="label.Values.Text" xml:space="preserve">
+    <value>iOS Version: 17.1</value>
+  </data>
+  <data name="&gt;&gt;fileExplorerPage.Type" xml:space="preserve">
+    <value>Krypton.Navigator.KryptonPage, Krypton.Navigator, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="expandCollapseButton1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;expandCollapsePanel1.Name" xml:space="preserve">
+    <value>expandCollapsePanel1</value>
+  </data>
+  <data name="kryptonDataGridView1.RowHeadersWidth" type="System.Int32, mscorlib">
+    <value>51</value>
+  </data>
+  <data name="kryptonDataGridView1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>347, 238</value>
+  </data>
+  <data name="thunderGroupBox5.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="kryptonGroupBox2.Panel.AutoScroll" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;spaceBorderLabel1.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.SpaceBorderLabel, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;kryptonGroupBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="HardwareGroupBox.Values.Heading" xml:space="preserve">
+    <value>Hardware</value>
+  </data>
+  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;thunderGroupBox3.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.ThunderGroupBox, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;DownloadButton.Name" xml:space="preserve">
+    <value>DownloadButton</value>
+  </data>
+  <data name="&gt;&gt;OSVersionLabel.Name" xml:space="preserve">
+    <value>OSVersionLabel</value>
+  </data>
+  <data name="&gt;&gt;DownloadButton.Parent" xml:space="preserve">
+    <value>ToolsGroupBox</value>
+  </data>
+  <data name="treeViewAdv1.ToolTipControl.AccessibleName" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="treeViewAdv1.ToolTipControl.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;OsGroupBox.Parent" xml:space="preserve">
+    <value>InfoTable</value>
+  </data>
+  <data name="&gt;&gt;OSVersionLabel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;MainNavbar.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;StorageTotalLabel.Parent" xml:space="preserve">
+    <value>thunderGroupBox1</value>
+  </data>
+  <data name="kryptonNavigator1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;progressBar1.Name" xml:space="preserve">
+    <value>progressBar1</value>
+  </data>
+  <data name="&gt;&gt;thunderGroupBox3.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;headerLabel6.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;headerLabel8.Name" xml:space="preserve">
+    <value>headerLabel8</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;foreverTabPage1.Name" xml:space="preserve">
+    <value>foreverTabPage1</value>
+  </data>
+  <data name="headerLabel14.Location" type="System.Drawing.Point, System.Drawing">
+    <value>158, 48</value>
+  </data>
+  <data name="&gt;&gt;thunderGroupBox1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;thunderGroupBox1.Parent" xml:space="preserve">
+    <value>flowLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;spaceBorderLabel1.Parent" xml:space="preserve">
+    <value>flowLayoutPanel1</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 37</value>
+  </data>
+  <data name="&gt;&gt;headerLabel4.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="headerLabel6.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="StorageGroupBox.Values.Description" xml:space="preserve">
+    <value />
+  </data>
+  <data name="kryptonGroupBox4.Panel.AccessibleName" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;headerLabel15.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.HeaderLabel, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;kryptonGroupBox4.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonGroupBox, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="kryptonGroupBox1.Panel.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Inherit</value>
+  </data>
+  <data name="FileExplorerTree.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="&gt;&gt;FileExplrerTreeView.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.CrownTreeView, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="circleProgressBar1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 209</value>
+  </data>
+  <data name="&gt;&gt;OSGroupBox.Name" xml:space="preserve">
+    <value>OSGroupBox</value>
+  </data>
+  <data name="&gt;&gt;circleProgressBar1.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.CircleProgressBar, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;tabPage2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TabPage, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="BatteryHealthLabel.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="StorageGroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;expandCollapseButton1.Name" xml:space="preserve">
+    <value>expandCollapseButton1</value>
+  </data>
+  <data name="circleProgressBar1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;headerLabel11.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;infoPage.Name" xml:space="preserve">
+    <value>infoPage</value>
+  </data>
+  <data name="treeViewAdv1.HelpTextControl.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="&gt;&gt;kryptonNavigator1.Name" xml:space="preserve">
+    <value>kryptonNavigator1</value>
+  </data>
+  <data name="&gt;&gt;headerLabel9.Parent" xml:space="preserve">
+    <value>flowLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;kryptonNavigator1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;FileExplrerTreeView.Name" xml:space="preserve">
+    <value>FileExplrerTreeView</value>
+  </data>
+  <data name="&gt;&gt;headerLabel5.Parent" xml:space="preserve">
+    <value>flowLayoutPanel1</value>
+  </data>
+  <data name="OsGroupBox.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;InfoTable.Type" xml:space="preserve">
+    <value>Krypton.Toolkit.KryptonTableLayoutPanel, Krypton.Toolkit, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;NavBar.Type" xml:space="preserve">
+    <value>Krypton.Navigator.KryptonNavigator, Krypton.Navigator, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;BatteryHealthLabel.Name" xml:space="preserve">
+    <value>BatteryHealthLabel</value>
+  </data>
+  <data name="&gt;&gt;kryptonGroupBox2.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;kryptonButton1.Parent" xml:space="preserve">
+    <value>infoPage</value>
+  </data>
+  <data name="InfoPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 3</value>
+  </data>
+  <data name="&gt;&gt;label.Name" xml:space="preserve">
+    <value>label</value>
+  </data>
+  <data name="headerLabel10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>435, 24</value>
+  </data>
+  <data name="&gt;&gt;progressbar.Name" xml:space="preserve">
+    <value>progressbar</value>
+  </data>
+  <data name="label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="headerLabel2.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;kryptonTableLayoutPanel1.Name" xml:space="preserve">
+    <value>kryptonTableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;thunderGroupBox4.Parent" xml:space="preserve">
+    <value>flowLayoutPanel2</value>
+  </data>
+  <data name="&gt;&gt;foreverTabPage1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;FileExplorerTreeView.Parent" xml:space="preserve">
+    <value>fileExplorerPage</value>
+  </data>
+  <data name="&gt;&gt;advancedFlowLayoutPanel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>BatteryGroupBox</value>
+  </data>
+  <data name="&gt;&gt;ToolsGroupBox.Type" xml:space="preserve">
+    <value>ReaLTaiizor.Controls.CrownGroupBox, ReaLTaiizor, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="treeViewAdv1.ToolTipControl.AccessibleDescription" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="flowLayoutPanel2.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="kryptonButton2.Values.ExtraText" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="kryptonButton2.Values.Text" xml:space="preserve">
+    <value>kryptonButton2</value>
+  </data>
+  <data name="thunderGroupBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>387, 3</value>
+  </data>
+  <data name="&gt;&gt;headerLabel2.Name" xml:space="preserve">
+    <value>headerLabel2</value>
+  </data>
+  <data name="BatteryGroupBox.Panel.AccessibleDescription" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
+    <value>en-US</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="backgroundWorker1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+</root>

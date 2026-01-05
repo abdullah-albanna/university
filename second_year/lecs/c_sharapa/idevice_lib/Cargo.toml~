@@ -1,0 +1,11 @@
+[package]
+name = "idevice_lib"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+crate-type = ["staticlib"]
+
+[dependencies]
+idevice = { version = "0.1.50", features = ["full"] }
+tokio = { version = "1.48.0", features = ["full"] }

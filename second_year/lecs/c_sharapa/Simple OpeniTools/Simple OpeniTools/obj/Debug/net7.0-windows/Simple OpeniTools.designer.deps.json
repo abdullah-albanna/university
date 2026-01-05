@@ -1,0 +1,91 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Krypton/2.0.0": {
+        "runtime": {
+          "lib/net40-Client/Krypton.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Krypton.Navigator/100.25.11.328": {
+        "dependencies": {
+          "Krypton.Toolkit": "100.25.11.328"
+        },
+        "runtime": {
+          "lib/net472/Krypton.Navigator.dll": {
+            "assemblyVersion": "100.25.11.328",
+            "fileVersion": "100.25.11.328"
+          }
+        }
+      },
+      "Krypton.Toolkit/100.25.11.328": {
+        "runtime": {
+          "lib/net472/Krypton.Toolkit.dll": {
+            "assemblyVersion": "100.25.11.328",
+            "fileVersion": "100.25.11.328"
+          }
+        }
+      },
+      "ReaLTaiizor/3.8.1.4": {
+        "runtime": {
+          "lib/net7.0-windows7.0/ReaLTaiizor.dll": {
+            "assemblyVersion": "3.8.1.4",
+            "fileVersion": "3.8.1.4"
+          }
+        }
+      },
+      "RustyOptions/0.10.1": {
+        "runtime": {
+          "lib/net7.0/RustyOptions.dll": {
+            "assemblyVersion": "0.10.1.0",
+            "fileVersion": "0.10.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Krypton/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-sRGtV0Rs3eU7dxxjzvgh68kwuWgFSF5ZRMrw5fTYW02j3zRGqVjKbgBW68KdmvlwRQLXZQ1OofuvoW717rCHGQ==",
+      "path": "krypton/2.0.0",
+      "hashPath": "krypton.2.0.0.nupkg.sha512"
+    },
+    "Krypton.Navigator/100.25.11.328": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-m9KT0EWHqqEuI4jN8IeAxpMWlpr7XIOpr1+glxLp4pQgR2r5eYjydiHWx0yvZpxwpadG5PUKF4FTrGm5ZpmVvQ==",
+      "path": "krypton.navigator/100.25.11.328",
+      "hashPath": "krypton.navigator.100.25.11.328.nupkg.sha512"
+    },
+    "Krypton.Toolkit/100.25.11.328": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rIk95XzDwDY6EopwuQ2DmHwSn5HMTIRZqcRctCZLKh811vCJrtDbKLpDL8ah/3g1fV+f4COF2v/0k6RvMlclqg==",
+      "path": "krypton.toolkit/100.25.11.328",
+      "hashPath": "krypton.toolkit.100.25.11.328.nupkg.sha512"
+    },
+    "ReaLTaiizor/3.8.1.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OyWDI78hbeNLPFQE2YA616RYXMyCO0uOjwsJi6pPiDOyCFM/HKX3Lpfy1UBb6z9KApGnNs+WVsVZn8AZm5xyQQ==",
+      "path": "realtaiizor/3.8.1.4",
+      "hashPath": "realtaiizor.3.8.1.4.nupkg.sha512"
+    },
+    "RustyOptions/0.10.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OuqyaAZ+vd37aIiFsVVUaOKk9JpIPnrunERZYufbzz3VSInNIFFsp8nc2NL3yOmf0nkI41GWUzlzcwlGpBqWNQ==",
+      "path": "rustyoptions/0.10.1",
+      "hashPath": "rustyoptions.0.10.1.nupkg.sha512"
+    }
+  }
+}

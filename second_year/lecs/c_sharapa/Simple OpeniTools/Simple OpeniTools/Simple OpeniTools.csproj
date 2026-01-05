@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>Simple_OpeniTools</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Krypton" Version="2.0.0" />
+    <PackageReference Include="Krypton.Navigator" Version="100.25.11.328" />
+    <PackageReference Include="Krypton.Toolkit" Version="100.25.11.328" />
+    <PackageReference Include="ReaLTaiizor" Version="3.8.1.4" />
+    <PackageReference Include="RustyOptions" Version="0.10.1" />
+  </ItemGroup>
+
+</Project>

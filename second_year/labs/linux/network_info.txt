@@ -1,0 +1,42 @@
+br-c7c81729dfd6: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        inet 172.18.0.1  netmask 255.255.0.0  broadcast 172.18.255.255
+        ether 52:eb:33:60:02:fb  txqueuelen 0  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 21 overruns 0  carrier 0  collisions 0
+
+docker0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        inet 172.17.0.1  netmask 255.255.0.0  broadcast 172.17.255.255
+        ether 22:04:f5:f4:3d:72  txqueuelen 0  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 21 overruns 0  carrier 0  collisions 0
+
+enp0s31f6: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether e8:6a:64:33:ca:c7  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+        device interrupt 16  memory 0xa4400000-a4420000  
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 26  bytes 3574 (3.4 KiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 26  bytes 3574 (3.4 KiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.114  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 fe80::d358:7830:e79f:c3d9  prefixlen 64  scopeid 0x20<link>
+        ether 64:5d:86:a0:cc:24  txqueuelen 1000  (Ethernet)
+        RX packets 205819  bytes 284485585 (271.3 MiB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 130345  bytes 14868089 (14.1 MiB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
